@@ -1,0 +1,14 @@
+@charset="utf-8";
+body{
+	background-color: #000000;
+	font-family: "微软雅黑";
+	font-size: 20pt;
+  background: url(../jpg/ditu.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	}
+#video{ margin-left:10%;
+	width:80%;
+	}
